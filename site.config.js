@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Getting-Started-on-Mobile-a8d34f5eeae841f0b8694fec715ef016',
+  rootNotionPageId: 'c2d166b255b64561a7338081c995ff58?v=61dd48eb894f4cda9947a482a0393b53',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
